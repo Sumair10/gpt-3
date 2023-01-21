@@ -1,0 +1,24 @@
+.gpt3__header {
+  display: flex;
+}
+
+.gpt3__header-content {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-right: 5rem;
+}
+
+.gpt3__header-content h1 {
+  font-family: var(--font-family);
+  font-weight: 800;
+}
+
+.gradient_text {
+  /* font-size: 72px; */
+  background: linear-gradient(89.97deg, #ae67fa 1.84%, #f49867 102.67%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
