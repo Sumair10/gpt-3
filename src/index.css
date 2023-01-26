@@ -13,4 +13,5 @@ code {
 }
 
 git add .
-git
+git commit -m "update"
+git push
