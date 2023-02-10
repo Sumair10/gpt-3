@@ -105,6 +105,6 @@ a {
     margin: 4rem 2rem;
   }
 }
-
 git add .
-git commit -m 
+git commit -m "update"
+git push
