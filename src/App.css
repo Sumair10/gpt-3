@@ -107,4 +107,5 @@ a {
 }
 
 git add .
-git
+git commit -m "a"
+git push
